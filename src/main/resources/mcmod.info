@@ -1,0 +1,16 @@
+[
+{
+  "modid": "prosepect",
+  "name": "Prospecting Tweaked",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["QueerCoded, Azathoth"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

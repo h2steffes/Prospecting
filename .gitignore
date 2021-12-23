@@ -1,7 +1,29 @@
+# mac os
+.DS_Store
+
+# forge / gradle
 .gradle
+build/
+out/
+classes/
+run/
+logs/
+
+# eclipse 
+*.launch
+.settings
+.classpath
+.project
+eclipse
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
 bin/
-gradle/wrapper/gradle-wrapper.properties
-gradlew
-gradlew.bat
-build
-gradle
+.classpath
